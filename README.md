@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey there! 🌺
+### My name's Róisín[^1], and I'm a psychology undergraduate student. 
+[^1]: Pronounced 'Roe-sheen!
 
+<!-- Add more info later-->
 <!--
 **sh-roisin/sh-roisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
