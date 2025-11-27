@@ -1,5 +1,8 @@
 ## Hey there! 🌺
-### My name's Róisín[^1], and I'm a psychology undergraduate student. 
+### My name's Róisín[^1], and I'm a psychology undergraduate student at the Univeristy of Sussex. 
+- 🧠 I'm currently on a placement year as a research assistant at the [Reality Bending Lab](https://github.com/RealityBending)
+- 👩🏻‍🔬 I'm also president of the [Cognitive Research Article Society](https://github.com/sh-roisin/Cognitive-Research-Article-Society)
+
 [^1]: Pronounced 'Roe-sheen!
 
 <!-- Add more info later-->
